@@ -16,6 +16,8 @@ If you have questions, join our [Slack](README.md) channel and we'll be happy to
 
 We ❤ contributors, see our [Contributing Guide](CONTRIBUTING.md) for how to get started submitting contributions or getting involved.
 
+This change is done on my local repo, pushed to my Fork :-)
+
 ## Known Issues
 
 - **LUCCA M58 v2**
