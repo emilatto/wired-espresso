@@ -2,7 +2,7 @@ import { DeviceContext } from './DeviceContext';
 import { DeviceMakeModel } from './Devices';
 
 export const TemperatureContext = {
-  requestedTemp: 195
+  requestedTemp: 199
 }
 
 export function applyRequestedTemperature(temp: number) {
